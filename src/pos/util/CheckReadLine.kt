@@ -1,7 +1,5 @@
 package pos.util
 
-import pos.util.CheckReadLine.checkReadLine
-
 object CheckReadLine {
   fun checkReadLine(vararg values: String): Boolean {
     for (value in values) {
@@ -13,8 +11,4 @@ object CheckReadLine {
     }
     return false
   }
-}
-
-fun main() {
-  checkReadLine("test")
 }

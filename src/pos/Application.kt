@@ -32,26 +32,6 @@ fun main() {
   }
 }
 
-//fun productManagement() {
-//  println("------------------------------------------")
-//  print("1. 상품 추가 || 2. 상품 수정 || 3. 상품 삭제 || 4. 취소 >> ")
-
-//  when (scanner.nextInt()) {
-//    1 -> addProduct()
-//    2 -> updateProduct()
-//    3 -> deleteProduct()
-//    4 -> return
-//  }
-//}
-//
-//fun productOrder() {
-//  selectProduct()
-//  createOrder()
-//}
-//
-//fun salesManagement() {
-//  printSales()
-//}
 
 
 
